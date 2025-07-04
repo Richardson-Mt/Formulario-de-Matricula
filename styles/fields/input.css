@@ -1,3 +1,8 @@
+.enroll-options {
+  label:first-child {
+    margin-top: 24px;
+  }
+}
 input, textarea, select {
   appearance: none;
   width: 100%;
